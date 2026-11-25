@@ -5,3 +5,11 @@ node_modules
 next-env.d.ts
 *.tsbuildinfo
 .impeccable/
+
+# Internal planning, kept out of the public repo (Ben, 2026-11-25)
+docs/
+HANDOFF.md
+PRODUCT.md
+.claude/
+.impeccable/
+.playwright-mcp/
